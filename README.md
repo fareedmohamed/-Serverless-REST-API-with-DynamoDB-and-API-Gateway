@@ -12,3 +12,4 @@ Develop a serverless REST API using Amazon API Gateway, AWS Lambda, and DynamoDB
 * **AWS IAM:** Controls access via roles and permissions.
 * **Amazon CloudWatch:** Logs and monitors API activity.
 * **S3:** to host the front-end of your applicatio
+  ![Arc](https://github.com/fareedmohamed/-Serverless-REST-API-with-DynamoDB-and-API-Gateway/blob/a5be312d7f544e32c93c80ac9f1cc85770388206/1_oaoY3k8IIQlwIC-2XHoirw.webp)
